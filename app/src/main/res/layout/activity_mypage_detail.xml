@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Test!!!!!!!You are here Home » Recipes in Text
+
+RECIPES IN TEXT
+Sharing is caring!
+
+177
+SHARES
+
+RECIPES IN TEXT
+As the recipe collection list gets longer with every post; it's been getting harder to scroll down multiple pages to find what you looking for. Right? Well, now all you have to do is scroll down one page. As new recipes will be added this date will be updated. Some old recipes need a facelift and so they have not been linked just yet. I will add the links as soon as possible.
+
+I hope this compilation makes it easier to find recipes
+
+Chocolate Mousse
+×
+cake baking and presentation - masterclasses here
+
+
+Secrets to baking incredible cakes
+Cake Decorating for beginners 1 Basics
+See all masterclasses here
+Table of Content
+Recipes in Text
+Layer Cake Recipes
+Coffee Cake Recipes
+Cheesecake Recipes
+Brownies, Bars, and Squares
+Fillings - cakes, pies and desserts
+Cake Decorating Recipes - Icing
+Fondant Recipes
+Ganache Recipes  Flavors
+Buttercream Recipes and  Flavors
+Cupcake Recipe
+Homemade Cookie Recipes
+Homemade Macarons from Scratch
+Recipes with puff pastry
+Crumble recipes
+Sweet - Pies, Tarts, Pastries, Quiches
+Savory - Pies, Tarts, Pastry  Quiches
+Mousse
+Indulgent Desserts - Creamy Desserts
+Basic Recipes
+Basics - Spice mixes
+Easy Breakfast Recipes
+Condiment
+Granola
+Sandwiches and Wraps
+Patties, cakes, latkes
+Side dish recipes
+Soups
+Salads
+Vegetarian
+Fish
+Chicken
+Lamb
+Beef
+Slow cooker
+Rice / Quinoa  / Pasta
+Bread Recipes
+Ice Creams / Popsicle Recipes
+Summer Drinks
+Indian
+Pumpkin Recipes
+resources
+Apple recipes
+Donuts
+Italian food
+Potato recipes
+Pies
+Pastry
+Mushrooms
+Mango
+Strawberry
+Cocktail
+Christmas
+LAYER CAKE RECIPES
+Tips for baking a cake from scratch
+Chocolate Birthday cake
+Best Chocolate Fudge Cake with Chocolate Fudge Frosting
+Gluten-Free Chocolate Cake
+Chocolate Ganache Chocolate Cake
+Chocolate Cake with Whipped Cream
+Simple Moist Chocolate Cake with American Buttercream
+Chocolate Chiffon Cake with Kahlua Chocolate Buttercream
+Devil's Food Chocolate Cake with Chocolate Ganache
+Death by chocolate cake
+Classic, chocolate cake
+chocolate ganache cake
+Best Chocolate Mud Cake with Caramel Buttercream
+Coffee Chocolate Cake with chocolate fudge frosting
+One Bowl Chocolate Cake - Naked Cake
+Cardamom cake with mocha buttercream
+Cadbury creme eggs cake
+Vanilla Birthday cake
+One Bowl Vanilla Cake - Naked Cake
+Light and fluffy Vanilla Cake
+Vanilla Cream Cake Recipe made with Fresh Cream
+Vanilla Bean Cake with vanilla buttercream frosting
+Vanilla Kahlua Cake with Kahlua Chocolate Buttercream
+Classic White Wedding Cake with Italian meringue buttercream IMBC
+White cake recipe with Ermine frosting
+Vanilla Cafe Latte Cake with Coffee Buttercream
+Chai Latte Cake with Vanilla Buttercream Frosting
+Brown Butter Cake with Whipped Cream Buttercream
+Earl Grey Cake with Italian Meringue Buttercream
+Espresso Cake with Whipped Espresso Ganache
+Classic Gingerbread Cake with Vanilla Buttercream and Ganache
+Red Velvet Cake with Cream Cheese Frosting (oil-based cake)
+Best Red Velvet Cake with Italian Meringue Buttercream (Butter-based cake)
+Easy Rainbow Cake - 7 layer Rainbow Cake
+Lemon Cake with Lemon Swiss Meringue Buttercream
+Classic Gingerbread Cake with Vanilla Buttercream and Ganache
+Orange Cake with Orange Swiss Meringue Buttercream
+Pumpkin Cream Cake with Whipped Cream Buttercream
+Pumpkin Spice Cake with Cream Cheese Frosting
+Pumpkin Spice-latte cake with Maple Buttercream
+Caramel Apple Cake with Caramel Buttercream
+Mango Cake with Swiss Meringue Buttercream
+Best Butterscotch Cake with Swiss Meringue Buttercream
+Moist Strawberry Cake with Velvet American Buttercream (oil-based cake)
+Raspberry White Chocolate cake (white chocolate buttercream)
+Mango cake with SMBC
+Moist Carrot Cake with Cream Cheese Frosting
+Best Carrot Cake with Apricot Swiss Meringue Buttercream
+Moist Strawberry Cream Cake with Whipped Cream
+Fresh Strawberry Cake with Swiss meringue Buttercream (butter-based cake)
+Coconut cake with coconut cream filling
+Pina colada cake"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
